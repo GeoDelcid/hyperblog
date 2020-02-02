@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 esta es mi historia y tengo 27 años
 naci en el salvador.
 
 mañana hablaremos de su vida laboral.
+=======
+esta es mi historia de su vida
+naci en el salvador.
+    su vida y obra maestra
+>>>>>>> master
