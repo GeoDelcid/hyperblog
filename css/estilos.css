@@ -1,7 +1,6 @@
 body
 {
-<<<<<<< HEAD
-    color: #red ;
+    color: red ;
     text-align: center ;
     font-family: "Arial";
     font-size: 16px;
@@ -20,9 +19,4 @@ body
 #container h1
 {
     font-size: 20px;
-=======
-    color: deeppink ;
-    text-align: center ;
-    font-family: "Arial";
->>>>>>> master
 }
